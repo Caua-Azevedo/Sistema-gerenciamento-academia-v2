@@ -2,9 +2,10 @@
 
 Plataforma full-stack para gestão de treinos, alunos e professores em uma academia. Permite que professores criem treinos e os atribuam a alunos, e que alunos solicitem consultorias com professores.
 
-## 👥 Integrantes do Grupo
+## 🔗 Repositório
+> `https://github.com/Caua-Azevedo/Sistema-gerenciamento-academia-v2`
 
-> Preencha aqui com o nome dos integrantes do grupo.
+## 👥 Integrantes do Grupo
 
 - Roberto Cauã
 - Samuel
